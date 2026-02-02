@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <b>⭐ 点击 <a href="https://github.com/Pangu-Immortal/AndHook">Star</a>，关注不迷路 ⭐</b>
+  <b>🌟 如果觉得有帮助，请点击 <a href="https://github.com/Pangu-Immortal/AndHook/stargazers">Star</a> 支持一下，关注不迷路！🌟</b>
 </p>
 
 A dynamic instrumentation framework designed for usage within process scope.
