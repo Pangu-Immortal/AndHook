@@ -8,6 +8,10 @@
 
 </div>
 
+<p align="center">
+  <b>⭐ 点击 <a href="https://github.com/Pangu-Immortal/AndHook">Star</a>，关注不迷路 ⭐</b>
+</p>
+
 A dynamic instrumentation framework designed for usage within process scope.
 
 # Support
